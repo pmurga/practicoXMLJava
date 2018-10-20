@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Biblioteca>
+  <Epoca>
+      <Nombre></Nombre>
+      <Libro>
+            <Autor></Autor>
+            <Titulo></Titulo>
+      </Libro>
+      <Libro>
+            <Autor></Autor>
+            <Titulo></Titulo>
+            <Versiones>
+                <Version>
+                    <Lugar></Lugar>
+                </Version>
+                <Version>
+                    <Lugar></Lugar>
+                </Version>
+            </Versiones>
+      </Libro>
+  </Epoca>
+</Biblioteca>
